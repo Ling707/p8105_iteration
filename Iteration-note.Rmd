@@ -1,0 +1,12 @@
+---
+title: "Iteration"
+author: "Ling"
+date: "11/4/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Iteration 1/3: Functions
